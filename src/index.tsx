@@ -1,10 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './components/App/App';
-import './styles/style.css';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App";
+import * as serviceWorker from "./serviceWorker";
+import "./styles/style.css";
 
-const wrapper = document.getElementById('root');
+const wrapper = document.getElementById("root");
 
 ReactDOM.render(<App />, wrapper);
 
