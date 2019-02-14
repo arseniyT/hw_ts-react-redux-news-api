@@ -1,6 +1,6 @@
 {
   "short_name": "Fetching News Api",
-  "name": "fetchReact-Klyuchnik",
+  "name": "newsApiTypeScriptReactRedux-Klyuchnik",
   "icons": [
     {
       "src": "favicon.ico",
